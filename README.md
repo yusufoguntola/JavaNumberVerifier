@@ -1,6 +1,6 @@
 Nigerian Vehicle Plate Number Verifier (JAVA)
 
-This library enables you verify plate number (of Nigerian vehicles) ang get the details
+This library enables you verify plate number (of Nigerian vehicles) and get the details
 of the vehicle and the verified owner.
 
 To use, simply download the included zip file and copy the contained jar files to your working directory.
